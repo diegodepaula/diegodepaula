@@ -1,7 +1,7 @@
-### Masters in Computer Science Data Science at Florida Polytechnic University
+### Masters of Science in Computer Science Data Science at Florida Polytechnic University
 
-- 🌱 I’m currently learning testing, Python, Ruby, Vue.js, React, UI, UX, R, Data Visualization, Data Storytelling
-- 💬 Ask me about JavaScript, Python, Data Science, R, Data Storytelling
+- 🌱 I’m currently learning E2E Testing, Ruby, UI, UX, R, Matlab, Data Visualization, Data Storytelling
+- 💬 Ask me about JavaScript, Typescript, Nodejs, Python, Data Science, R, Data Storytelling
 
 
 👔 [linkedin][linkedin]
